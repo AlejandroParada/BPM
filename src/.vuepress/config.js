@@ -43,9 +43,9 @@ module.exports = {
        //   ['Quees', '¿En que consiste?'],
         //   'Quees',   
           ['/area', 'Areas'],
-          ['/preguntasyrespuestas', 'PyR'],
-          ['/empresas', 'Empresas que usan BPM'],
-          ['/ganaarganar', 'Ganar Ganar'],
+          ['/preguntasyrespuestas', 'Preguntas Frecuentes'],
+          ['/empresas', 'Quienes usan BPM'],
+          ['/ganarganar', 'Ganar Ganar'],
           ['/preferir', 'Preferir BPM'],
           ['/contacto', 'Contacto'],
         

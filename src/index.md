@@ -12,7 +12,7 @@ features:
 - title: "\ud83d\ude80 Unicos en Uruguay" 
   details: Somos los unicos especializados en mejorar la industria del pan en Uruguay
 - title: "\ud83e\udd14 Tiene dudas... "
-  details: Si tiene alguna pregunta puede ver nuestra zona de preguntas y respuestas
+  details: "Si tiene alguna pregunta puede ver nuestra zona de [preguntas frecuentes](./preguntasyrespuestas.md)"
 footer: Made by SigmaCode with ❤️
 ---
 <mycarousel/>

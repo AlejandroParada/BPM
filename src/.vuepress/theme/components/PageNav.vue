@@ -152,7 +152,7 @@ function flatten (items, res) {
   @extend $wrapper
   padding-top 1rem
   padding-bottom 0
-  bottom 0
+  bottom 5px
   position sticky
   background-color white
   .inner

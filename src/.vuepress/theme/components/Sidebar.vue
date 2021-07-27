@@ -48,7 +48,7 @@ export default {
     padding 1.5rem 0
     & > li > a.sidebar-link
       font-size 1.1em
-      line-height 1.7
+      line-height 0
       font-weight bold
     & > li:not(:first-child)
       margin-top .75rem

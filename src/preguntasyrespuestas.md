@@ -1,4 +1,4 @@
-# Preguntas y Respuestas
+# Preguntas Frecuentes
 
 Tenga la agentileza de leer todas preguntas para no tener dudas
 
@@ -30,7 +30,7 @@ Si le interesa la propuesta contacteme por [aqui](./contacto.md)
 Precisamente nuestro proposito es ayudar a las empresas de la industria del pan a mejorar en varios aspectos que la haran mas competitiva. Esto no significa un cambio radical sino una cambio gradual de cultura hacia la calidad. A travez delineamientos, pautas bien establecidos y le garantizan el mejorar como empresa
 :::
 ::: details ¿Porque esta metodología no es tan conocida?
-Estas metodologías no son tan conocidas a nivel local, tal vez por falta de difucion, y no hay nadie que en forma organizada y sistematica pueda proporcionarla a costo accesibles para esta industria. Tal vez si la hay para otros rubros. Estamos alineados con el Codex Alimentaruis de la FAO  
+Estas metodologías no son tan conocidas a nivel local, tal vez por falta de difucion, y no hay nadie que en forma organizada y sistematica pueda proporcionarla a costo accesibles para esta industria. Tal vez si la hay para otros rubros. Estamos alineados con el [Codex Alimentarius](https://es.wikipedia.org/wiki/Codex_Alimentarius) (guia proporcionada por la [FAO](https://es.wikipedia.org/wiki/Organizaci%C3%B3n_de_las_Naciones_Unidas_para_la_Alimentaci%C3%B3n_y_la_Agricultura) (Organizacion Mundial de Alimentacion y Agricultura) 
 :::
 ::: details ¿Porque se enfocan en nuestro rubro? 
 Hemos visto un deterioro en la calidad y propuesta que se estan realizando en la comercializacion de panificados en Uruguay. Muchas veces costos han aumentado para los clientes sin mejorar los productos que se llevan. Otras empresas de gran porte si han mejorado su calidad dejando rezagados los mas chicos, muchas de estas empresas no son del pais, lo cual dificulta aun mas la competitividad. Ante esta y otras desigualdades hemos visto la posibilidad de dar una mano a la industria nacional. Queremos hacer accesible la posibilidad de mejorar, brindando facilidades en medio un contexto de economia fragil
@@ -51,10 +51,10 @@ Una vez implementado BPM, tenemos la base para implementar otros sistemas acorde
 El relevamiento en si no tiene costo. Dependiendo de que halla que implementar, las capacitaciones, y el material impreso si tiene costo.
 Bindamos facilidad de pago, por el momento disponemos del sistema Mi dinero, para realizar los pagos.
 :::
-:::details Que pass si no es el dueño de la empresa ¿Que puede hacer?
+:::details Que pasa si no es el dueño de la empresa ¿Que puede hacer?
 Le agradecemos que halla visitado y visto nuestra propuesta. Debido a la naturaleza de nuestras propuesta, implica la posibilidad de mejoras importantes que requieren suma atencion. Le pedimos si es tan amable de compartir esta pagina con el dueño dando click [aqui](https://api.whatsapp.com/send?text=Porfavor%20visita%20esta%20pagina%20me%20parece%20que%20nos%20puede%20servir%20lo%20que%20proponen%20https://alejandroparada.github.io/BPM/)
 :::
-:::details Por el momento no le interesa la propuesta ¿Que puedo hacer?
-Le agradecemos que halla visitado y visto nuestra propuesta. Le pedimos si es tan amable de compartir esta pagina con algun amigo dueño de panaderia que tal vez le pueda interesar dando click [aqui](https://api.whatsapp.com/send?text=Porfavor%20visita%20esta%20pagina%20me%20parece%20que%20nos%20puede%20servir%20lo%20que%20proponen%20https://alejandroparada.github.io/BPM/)
+:::details Por el momento no le interesa la propuesta o no este vinculado al rubro ¿Que puede hacer?
+Le agradecemos que halla visitado y visto nuestra propuesta. Como empresa uruguaya queremos que otras empresas mejoren. Le pedimos si es tan amable de compartir esta pagina con algun amigo o conocido dueño o no de panaderia que tal vez le pueda interesar dando click [aqui](https://api.whatsapp.com/send?text=Porfavor%20visita%20esta%20pagina%20me%20parece%20que%20puede%20servir%20a%20tu%20empresa%20https://alejandroparada.github.io/BPM/)
 :::
 Lo no dude mas puede contactarnos [aqui](./contacto.md)
