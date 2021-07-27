@@ -52,9 +52,9 @@ El relevamiento en si no tiene costo. Dependiendo de que halla que implementar, 
 Bindamos facilidad de pago, por el momento disponemos del sistema Mi dinero, para realizar los pagos.
 :::
 :::details Que pasa si no es el dueño de la empresa ¿Que puede hacer?
-Le agradecemos que halla visitado y visto nuestra propuesta. Debido a la naturaleza de nuestras propuesta, implica la posibilidad de mejoras importantes que requieren suma atencion. Le pedimos si es tan amable de compartir esta pagina con el dueño dando click [aqui](https://api.whatsapp.com/send?text=Porfavor%20visita%20esta%20pagina%20me%20parece%20que%20nos%20puede%20servir%20lo%20que%20proponen%20https://alejandroparada.github.io/BPM/)
+Le agradecemos que halla visitado y visto nuestra propuesta. Debido a la naturaleza de nuestras propuesta, implica la posibilidad de mejoras importantes que requieren suma atencion. Le pedimos si es tan amable de compartir esta pagina con el dueño dando click [aqui](https://api.whatsapp.com/send?text=Por%20favor%20visita%20esta%20pagina%20me%20parece%20que%20nos%20puede%20servir%20lo%20que%20proponen%20https://alejandroparada.github.io/BPM/)
 :::
 :::details Por el momento no le interesa la propuesta o no este vinculado al rubro ¿Que puede hacer?
-Le agradecemos que halla visitado y visto nuestra propuesta. Como empresa uruguaya queremos que otras empresas mejoren. Le pedimos si es tan amable de compartir esta pagina con algun amigo o conocido dueño o no de panaderia que tal vez le pueda interesar dando click [aqui](https://api.whatsapp.com/send?text=Porfavor%20visita%20esta%20pagina%20me%20parece%20que%20puede%20servir%20a%20tu%20empresa%20https://alejandroparada.github.io/BPM/)
+Le agradecemos que halla visitado y visto nuestra propuesta. Como empresa uruguaya queremos que otras empresas mejoren. Le pedimos si es tan amable de compartir esta pagina con algun amigo o conocido dueño o no de panaderia que tal vez le pueda interesar dando click [aqui](https://api.whatsapp.com/send?text=Por%20favor%20visita%20esta%20pagina%20me%20parece%20que%20puede%20servir%20a%20tu%20empresa%20https://alejandroparada.github.io/BPM/)
 :::
 Lo no dude mas puede contactarnos [aqui](./contacto.md)
