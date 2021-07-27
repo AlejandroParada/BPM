@@ -33,11 +33,16 @@ Cuando se registra con nosotros, lo contactamos para determinar cuando es mejor 
 Los resultados, se veran reflejados en el aumento de la calidad de sus productos y mejor aceptacion por parte de los cliente. El tiempo dependera de cuan rapido se puedan realizar los cambios significativos que afectaran a la calidad de sus productos y servicios.
 :::
 ::: details ¿Qué pasa después de BPM?
-Una vez implementado BPM, tenemos la base para implementar otros sistemas acorde a su empresa, estos tienen la finalidad de elevar aun mas el nivel de su empresa. Otros sistemas que tenemos son Harpcp, Six-Sigma. Estos otros sistemas se enfocan en potenciar sus ventas, entre otras cosas. 
+Una vez implementado BPM, tenemos la base para implementar otros sistemas acorde a su empresa, estos tienen la finalidad de elevar aun mas el nivel de su empresa. Otros sistemas que tenemos son [Harpc](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_peligros_y_controles_preventivos_basados_en_riesgos),[Lean Manufacturing](https://es.wikipedia.org/wiki/Lean_manufacturing), [Six-Sigma](https://es.wikipedia.org/wiki/Seis_Sigma). Estos otros sistemas se enfocan en potenciar sus ventas, entre otras cosas. 
 :::
 ::: details ¿Qué costo tiene la implementación?
 El relevamiento en si no tiene costo. Dependiendo de que halla que implementar, las capacitaciones, y el material impreso si tiene costo.
 Bindamos facilidad de pago, por el momento disponemos del sistema Mi dinero, para realizar los pagos.
 :::
-
+:::details No soy el dueño de la empresa ¿Que puedo hacer?
+Le agradecemos que halla visitado y visto nuestra propuesta. Le pedimos si es tan amable de compartir esta pagina con el dueño dando click [aqui](https://api.whatsapp.com/send?text=Porfavor%20visita%20esta%20pagina%20me%20parece%20que%20nos%20puede%20servir%20lo%20que%20proponen%20https://alejandroparada.github.io/BPM/)
+:::
+:::details Por el momento no nos interesa su propuesta ¿Que puedo hacer?
+Le agradecemos que halla visitado y visto nuestra propuesta. Le pedimos si es tan amable de compartir esta pagina con algun amigo dueño de panaderia que tal vez le pueda interesar dando click [aqui](https://api.whatsapp.com/send?text=Porfavor%20visita%20esta%20pagina%20me%20parece%20que%20nos%20puede%20servir%20lo%20que%20proponen%20https://alejandroparada.github.io/BPM/)
+:::
 Lo no dude mas puede contactarme [aqui](./contacto.md)
