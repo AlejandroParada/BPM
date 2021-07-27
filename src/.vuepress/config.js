@@ -45,6 +45,7 @@ module.exports = {
           ['/area', 'Areas'],
           ['/preguntasyrespuestas', 'PyR'],
           ['/empresas', 'Empresas que usan BPM'],
+          ['/ganaarganar', 'Ganar Ganar'],
           ['/preferir', 'Preferir BPM'],
           ['/contacto', 'Contacto'],
         

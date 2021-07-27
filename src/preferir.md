@@ -15,4 +15,4 @@
 + Marcar un antes y un después en su nivel empresarial
 + Las empresas exitosas disponen de esta metologia y no quiere quedarse atrás. 
 
-No demore mas contacteme por [aqui](./contacto.md)
+No demore mas contactenos por [aqui](./contacto.md)

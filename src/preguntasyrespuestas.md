@@ -1,6 +1,9 @@
 # Preguntas y Respuestas
+
+Tenga la agentileza de leer todas preguntas para no tener dudas
+
 ::: details ¿En que consiste BPM?
-BPM Significa Buenas Practicas de Manufactura
+BPM Significa Buenas Practicas de Manufactura. Le permite a su empresa adquirir un nivel aun mas elevado en la elavoracion de panificados, cumpliendo con las mejores estandares puede saber mas [aqui](./Quees.md)
 :::
 ::: details ¿Como se implementa BPM?
 + Consiste en un relevamiento del estado actual.
@@ -10,10 +13,16 @@ BPM Significa Buenas Practicas de Manufactura
 ::: details ¿Cuanto tiempo lleva el proceso?
 La implantacion es un proceso que requiere los ajustes que sean necesarios, junto con una capacitacion que acompaña al nuevo enfoque. Puede llevar varios meses, dependiendo del tamaño de las instalaciones, y la cantidad del personal.
 :::
-::: details ¿Qué pasa si ya alguna de éstas cosas ya la tenemos?
+:::details ¿Que puede darnos la seguridad de que su propuesta nos dara resultado?
+Detras de esta propuesta hay una vocasion por la calidad, y una formacion profesional en gestion de calidad, tecnologias de la informacion, y la firme convixion que las empresas se pueden mejorar en todos los aspectos para competir en un mercado globalizado. Nos aseguramos que sepan cual es su situacion y noten que pueden mejorar, lo hagan y vean los resultados.
+:::
+::: details ¿Que hacen para que los resultados sean posibles?
+Los resultados son posible por medio de la aplicacion de tecnologías y metodologías destinadas al potienciamiento empresarial. De esta forma tendrá herramientas que le permitiran medir, evaluar y ver el impacto inmediato se aplicar nuevas estrategías comerciales. Estas tecnologias no las encontrara en otro lugar, adaptadas a sus necesidades a medida que las valla precisando y a costos adecuados a la realidad económica actual.
+:::
+::: details ¿Qué pasa si alguna de éstas cosas ya las tenemos?
 Es posible que ya algunas de estas pautas ya las esten aplicando, como tambien ya tengan inculcada una cultura de calidad. Apuntamos a construir sobre sus bases solidas y reforzar las mas debiles para hacer que su empresa mejore aun mas 
 :::
-::: details Este no es nuestro mejor momento, no nos ha ido bien y estamos evaluando si continuar con la empresas. ¿En que puede variarnos lo que ofrece?
+::: details Este no es nuestro mejor momento, no nos ha ido bien y estamos evaluando si continuar con la empresa. ¿En que puede variarnos lo que ofrece?
 Primero, la pandemia nos ha afectado a todos en mayor o menor media. La falta de adaptacion a la limitadas circunstancias, o incluso el no aplicar estrategias adecuadas a costado perdidas economicas en todas las areas. Nosotros no ofrecemos la solucion perfecta, pero si guiamos, sujerimos, y damos pautas que pueden ayudar a sobrevivir la pandemia.
 Si le interesa la propuesta contacteme por [aqui](./contacto.md)
 :::
@@ -24,7 +33,10 @@ Precisamente nuestro proposito es ayudar a las empresas de la industria del pan 
 Estas metodologías no son tan conocidas a nivel local, tal vez por falta de difucion, y no hay nadie que en forma organizada y sistematica pueda proporcionarla a costo accesibles para esta industria. Tal vez si la hay para otros rubros. Estamos alineados con el Codex Alimentaruis de la FAO  
 :::
 ::: details ¿Porque se enfocan en nuestro rubro? 
-Hemos visto un deterioro en la calidad y propuesta que se estan realizando en la comercializacion de panificados en Uruguay. Muchas veces costos han aumentado para los clientes sin mejorar los productos que se llevan. Otras empresas de gran porte si han mejorado su calidad dejando rezagados los mas chicos, muchas de estas empresas no son del pais, los cual dificulta aun mas la competitividad. Ante esta y otras desigualdades hemos visto la posibilidad de dar una mano a la industria nacional. Queremos hacer accesible la posibilidad de mejorar, brindando facilidades en medio un contexto de economia fragil
+Hemos visto un deterioro en la calidad y propuesta que se estan realizando en la comercializacion de panificados en Uruguay. Muchas veces costos han aumentado para los clientes sin mejorar los productos que se llevan. Otras empresas de gran porte si han mejorado su calidad dejando rezagados los mas chicos, muchas de estas empresas no son del pais, lo cual dificulta aun mas la competitividad. Ante esta y otras desigualdades hemos visto la posibilidad de dar una mano a la industria nacional. Queremos hacer accesible la posibilidad de mejorar, brindando facilidades en medio un contexto de economia fragil
+:::
+::: details ¿Aceptar su propuesta implica un compromiso?
+Realmente no, nosotros evaluamos su situacion, le mostramos donde puede mejorar (sin costo) y usted decide que va a hacer, cuando y como lo vamos a implementar, de acuerdo al plan que usted decida y que se adapte a su realidad, recuerde que siempre tiene la libertad de elegir. 
 :::
 ::: details ¿Cuándo podemos empezar?
 Cuando se registra con nosotros, lo contactamos para determinar cuando es mejor de acuerdo a nuestra agenda lo mas antes posible, y asi comenzar a realizar en relevamiento de empresa
@@ -39,10 +51,10 @@ Una vez implementado BPM, tenemos la base para implementar otros sistemas acorde
 El relevamiento en si no tiene costo. Dependiendo de que halla que implementar, las capacitaciones, y el material impreso si tiene costo.
 Bindamos facilidad de pago, por el momento disponemos del sistema Mi dinero, para realizar los pagos.
 :::
-:::details No soy el dueño de la empresa ¿Que puedo hacer?
-Le agradecemos que halla visitado y visto nuestra propuesta. Le pedimos si es tan amable de compartir esta pagina con el dueño dando click [aqui](https://api.whatsapp.com/send?text=Porfavor%20visita%20esta%20pagina%20me%20parece%20que%20nos%20puede%20servir%20lo%20que%20proponen%20https://alejandroparada.github.io/BPM/)
+:::details Que pass si no es el dueño de la empresa ¿Que puede hacer?
+Le agradecemos que halla visitado y visto nuestra propuesta. Debido a la naturaleza de nuestras propuesta, implica la posibilidad de mejoras importantes que requieren suma atencion. Le pedimos si es tan amable de compartir esta pagina con el dueño dando click [aqui](https://api.whatsapp.com/send?text=Porfavor%20visita%20esta%20pagina%20me%20parece%20que%20nos%20puede%20servir%20lo%20que%20proponen%20https://alejandroparada.github.io/BPM/)
 :::
-:::details Por el momento no nos interesa su propuesta ¿Que puedo hacer?
+:::details Por el momento no le interesa la propuesta ¿Que puedo hacer?
 Le agradecemos que halla visitado y visto nuestra propuesta. Le pedimos si es tan amable de compartir esta pagina con algun amigo dueño de panaderia que tal vez le pueda interesar dando click [aqui](https://api.whatsapp.com/send?text=Porfavor%20visita%20esta%20pagina%20me%20parece%20que%20nos%20puede%20servir%20lo%20que%20proponen%20https://alejandroparada.github.io/BPM/)
 :::
-Lo no dude mas puede contactarme [aqui](./contacto.md)
+Lo no dude mas puede contactarnos [aqui](./contacto.md)
