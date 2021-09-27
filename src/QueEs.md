@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 ---
 next: area
 ---
-=======
->>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45
 # ¿Que es BPM?
 Significa [Buenas Practicas de Manufactura](http://es.wikipedia.org/wiki/Buenas_practicas_de_fabricacion) (en ingles GMP Good Manufacturing Practices) establecen las condiciones y requisitos necesarios para asegurar la higiene en la cadea alimentaria y la producción.
 

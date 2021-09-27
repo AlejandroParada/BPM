@@ -1,6 +1,4 @@
 /.vscode 
-<<<<<<< HEAD
-=======
-src/.vuepress/dist
->>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45
 node_modules
+src/.vuepress/.cache
+src/.vuepress/.temp
