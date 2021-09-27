@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const getLogger = require('webpack-log');
 const log = getLogger({ name: 'webpack-verificador' });
 
@@ -15,6 +16,12 @@ module.exports = {
   base: '/BPM/',
   //base: cdn,
  // base: '/',
+=======
+const { description } = require('../../package')
+
+module.exports = {
+  base: '/BPM/',
+>>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
@@ -22,7 +29,11 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
+<<<<<<< HEAD
   description: 'Buenas Practicas de Manufactura',
+=======
+  description: description,
+>>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -32,12 +43,16 @@ module.exports = {
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+<<<<<<< HEAD
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
 	['link', { rel: 'icon', href: 'https://alejandroparada.github.io/BPM/favicon.ico?v=2', sizes: '16x16' }],
 	['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon-152x152.png', sizes: '152x152' }],
 	['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon-120x120.png', sizes: '120x120' }],
 	['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon-76x76.png', sizes: '76x76' }],
 	['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon-60x60.png', sizes: '60x60' }]
+=======
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+>>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45
   ],
 
   /**
@@ -45,6 +60,7 @@ module.exports = {
    *
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
+<<<<<<< HEAD
   locales: {
 	  '/': { lang: 'es-ES',title: 'BPM' },
 	  // '/en/': {  lang: 'en-US', title: 'BPM' },
@@ -161,11 +177,48 @@ module.exports = {
 		]
 	  },
 	}
+=======
+  themeConfig: {
+    repo: '',
+    editLinks: false,
+    docsDir: '',
+    editLinkText: '',
+    lastUpdated: false,
+    nav: [
+      {
+        text: '¿Que es?',
+        link: 'Quees',
+      }
+    ],
+    sidebar: [
+       //   ['Quees', '¿En que consiste?'],
+        //   'Quees',   
+          ['/area', 'Areas'],
+          ['/preguntasyrespuestas', 'Preguntas Frecuentes'],
+          ['/empresas', 'Quienes usan BPM'],
+          ['/ganarganar', 'Ganar Ganar'],
+          ['/preferir', 'Preferir BPM'],
+          ['/contacto', 'Contacto'],
+        
+//      'Quess': [
+//        {
+//          title: '¿Que es?'//,
+//          //collapsable: false,
+//          //children: [
+//          //  '',
+//          //  'using-vue',
+//          //]
+//        },
+//      ],
+//      'Areas': { title: 'Areas que barca', 'area' },
+    ]
+>>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45
   },
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
+<<<<<<< HEAD
 //  plugins: [
 //      [
 //		  '@vuepress/search', { searchMaxSuggestions: 10 },
@@ -330,3 +383,10 @@ module.exports = {
 	
   }
 }
+=======
+  plugins: [
+    '@vuepress/plugin-back-to-top',
+    '@vuepress/plugin-medium-zoom',
+  ]
+}
+>>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45

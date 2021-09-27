@@ -1,8 +1,13 @@
 <template>
   <div>
     <VueSlickCarousel :arrows="true" :dots="true" :autoplay="true">
+<<<<<<< HEAD
       <div><img src="../../../assets/img/grido.jpg" width="331" height="201" border="0" alt="" /></div>
       <div>2</div> 
+=======
+      <div>1</div>
+      <div>2</div>
+>>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45
       <div>3</div>
       <div>4</div>
     </VueSlickCarousel>
@@ -10,6 +15,7 @@
 </template>
 
 <script>
+<<<<<<< HEAD
 	import lazyLoadComponent from './lazy-load-component';
 	import SkeletonBox from './SkeletonBox.vue';	
 
@@ -68,4 +74,15 @@
     }),
 		},  
 	}
+=======
+  import VueSlickCarousel from 'vue-slick-carousel'
+  import 'vue-slick-carousel/dist/vue-slick-carousel.css'
+  // optional style for arrows & dots
+  import 'vue-slick-carousel/dist/vue-slick-carousel-theme.css'
+
+  export default {
+    name: 'mycarousel',
+    components: { VueSlickCarousel },
+  }
+>>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45
 </script>

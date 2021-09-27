@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 ---
 prev: area
 next: empresas
 ---
+=======
+>>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45
 # Preguntas Frecuentes
 
 Tenga la agentileza de leer todas preguntas para no tener dudas
@@ -12,7 +15,11 @@ BPM Significa Buenas Practicas de Manufactura. Le permite a su empresa adquirir 
 ::: details ¿Como se implementa BPM?
 + Consiste en un relevamiento del estado actual.
 + La identificación de los aspectos a mejorar 
+<<<<<<< HEAD
 + Establecer un plan... si le interesa la propuesta contactenos por [aqui](./contacto.md)
+=======
++ Establecer un plan... si le interesa la propuesta contacteme por [aqui](./contacto.md)
+>>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45
 :::
 ::: details ¿Cuanto tiempo lleva el proceso?
 La implantacion es un proceso que requiere los ajustes que sean necesarios, junto con una capacitacion que acompaña al nuevo enfoque. Puede llevar varios meses, dependiendo del tamaño de las instalaciones, y la cantidad del personal.
@@ -28,9 +35,15 @@ Es posible que ya algunas de estas pautas ya las esten aplicando, como tambien y
 :::
 ::: details Este no es nuestro mejor momento, no nos ha ido bien y estamos evaluando si continuar con la empresa. ¿En que puede variarnos lo que ofrece?
 Primero, la pandemia nos ha afectado a todos en mayor o menor media. La falta de adaptacion a la limitadas circunstancias, o incluso el no aplicar estrategias adecuadas a costado perdidas economicas en todas las areas. Nosotros no ofrecemos la solucion perfecta, pero si guiamos, sujerimos, y damos pautas que pueden ayudar a sobrevivir la pandemia.
+<<<<<<< HEAD
 Si le interesa la propuesta contactenos por [aqui](./contacto.md)
 :::
 ::: details No somos tan organizados o somos muy chicos ¿en que nos beneficia?
+=======
+Si le interesa la propuesta contacteme por [aqui](./contacto.md)
+:::
+::: details No somos tan organizados ¿en que nos beneficia?
+>>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45
 Precisamente nuestro proposito es ayudar a las empresas de la industria del pan a mejorar en varios aspectos que la haran mas competitiva. Esto no significa un cambio radical sino una cambio gradual de cultura hacia la calidad. A travez delineamientos, pautas bien establecidos y le garantizan el mejorar como empresa
 :::
 ::: details ¿Porque esta metodología no es tan conocida?
@@ -53,7 +66,11 @@ Una vez implementado BPM, tenemos la base para implementar otros sistemas acorde
 :::
 ::: details ¿Qué costo tiene la implementación?
 El relevamiento en si no tiene costo. Dependiendo de que halla que implementar, las capacitaciones, y el material impreso si tiene costo.
+<<<<<<< HEAD
 Bindamos facilidad de pago, por el momento disponemos del sistema Mi dinero, para realizar los pagos. Para mas informacion no dude en [consultarnos](./contacto.md)
+=======
+Bindamos facilidad de pago, por el momento disponemos del sistema Mi dinero, para realizar los pagos.
+>>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45
 :::
 :::details Que pasa si no es el dueño de la empresa ¿Que puede hacer?
 Le agradecemos que halla visitado y visto nuestra propuesta. Debido a la naturaleza de nuestras propuesta, implica la posibilidad de mejoras importantes que requieren suma atencion. Le pedimos si es tan amable de compartir esta pagina con el dueño dando click [aqui](https://api.whatsapp.com/send?text=Por%20favor%20visita%20esta%20pagina%20me%20parece%20que%20nos%20puede%20servir%20lo%20que%20proponen%20https://alejandroparada.github.io/BPM/)

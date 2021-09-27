@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 ---
 prev: nosotros
 next: disenio
 ---
+=======
+>>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45
 # Porque preferir BPM
 
 + Necesita por motivos legales
@@ -17,6 +20,12 @@ next: disenio
 + Optimizar su inversión con resultados mas precisos
 + Reestructurar su empresa de manera tal que reduzca sus dolores de cabeza
 + Marcar un antes y un después en su nivel empresarial
+<<<<<<< HEAD
 + Las [empresas](./empresas.md) exitosas disponen de esta metologia y no quiere quedarse atrás. 
 
 <!-- No demore mas contactenos por [aqui](./contacto.md) -->
+=======
++ Las empresas exitosas disponen de esta metologia y no quiere quedarse atrás. 
+
+No demore mas contactenos por [aqui](./contacto.md)
+>>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45
