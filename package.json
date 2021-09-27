@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "bpmx",
   "version": "1.0.0",
   "description": "",
@@ -23,34 +22,5 @@
     "@vuepress/plugin-register-components": "^2.0.0-beta.25",
     "vuepress-plugin-seo": "^0.1.4",
     "webpack-log": "^3.0.2"
-=======
-  "name": "sigma",
-  "version": "0.0.1",
-  "description": "Buenas Practicas de Manufactura",
-  "main": "index.js",
-  "authors": {
-    "name": "SigmaCode",
-    "email": ""
-  },
-  "repository": "/sigma",
-  "scripts": {
-    "dev": "vuepress dev src",
-    "devv": "nodemon --ext md,vue --watch .vuepress --watch . --exec vuepress dev src",
-    "build": "vuepress build src",
-    "bb": "vuepress build src && browser-sync start --server --port 8080 '.vuepress/dist'",
-    "dump": "vuepress eject _tmp",
-    "deploy": "npm run build && deploy2.cmd"
-  },
-  "license": "MIT",
-  "devDependencies": {
-    "nodemon": "^2.0.12",
-    "vuepress": "^1.5.3"
-  },
-  "dependencies": {
-    "@braid/vue-formulate": "^2.5.2",
-    "gh-pages": "^3.2.3",
-    "push-dir": "^0.4.1",
-    "vue-slick-carousel": "^1.0.6"
->>>>>>> 3ea22a7eba58c92ed566641f870cdbb113a90d45
   }
 }
