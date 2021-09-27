@@ -1,0 +1,15 @@
+{
+"configuration": [
+    {
+        "type": "node",
+        "request": "lunch",
+        "name": "Debug Vuepress",
+        "runtimeExecutable": "npm",
+        "runtimeArgs": [
+            "run-script",
+            "debug"
+        ],
+        "port": 9229
+    }
+]
+}

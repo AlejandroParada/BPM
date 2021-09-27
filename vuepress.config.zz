@@ -1,0 +1,27 @@
+module.exports = {
+//  lang: "es-ES",
+//  title: "",
+//  theme: "@vuepress/default",
+//  themeConfig: {
+//    darkMode: true
+//  },
+//  plugins: [
+    // 无法禁用 plugin-back-to-top
+//    { "@vuepress/plugin-back-to-top": false },
+//    // 搜索框无法显示
+//    [
+//      "@vuepress/plugin-search",
+//      {
+//        locales: {
+//          "/": { placeholder: "Buscar" },
+//          "/en/": { placeholder: "Search" }
+//          "/pt/": { placeholder: "Buscar" }
+//        }
+//      }
+//    ],
+//	"img-lazy",
+//	"seo", {
+//		hostname: 'https://alejandroparada.github.io/BPM'
+//	}
+//  ]
+};
