@@ -1,0 +1,26 @@
+{
+  "name": "bpmx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev src",
+    "build": "vuepress build src && cdn-fixer.sh",
+    "devv": "vuepress dev src --debug",
+    "debug": "SET NODE_ENV='production' && node --nolazy --inspect-brk=9229 ./node_modules/.bin/vuepress build src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^2.0.0-beta.25",
+    "vuepress-plugin-img-lazy": "^1.0.4",
+    "vuepress-plugin-sitemap": "^2.3.1"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-webpack": "^2.0.0-beta.26",
+    "@vuepress/plugin-register-components": "^2.0.0-beta.25",
+    "vuepress-plugin-seo": "^0.1.4",
+    "webpack-log": "^3.0.2"
+  }
+}
