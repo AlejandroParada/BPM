@@ -1,2 +1,0 @@
-<template><!-- <contactform/> -->
-</template>
